@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhos-13&show_icons=true)
 <!--
 **santhos-13/santhos-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
