@@ -4,11 +4,11 @@
 
 
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=santhos-13&show_icons=true&hide_border=true&theme=jolly" />
-	  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=santhos-13&hide_border=true&theme=jolly" />
+
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=santhos-13&show_icons=true&hide_border=true&theme=jolly" />
+	  <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=santhos-13&hide_border=true&theme=jolly" />
 	
-</p>
+
 
 <a target="_blank" href="https://www.instagram.com/santhoshh03/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
