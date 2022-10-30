@@ -5,12 +5,9 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=santhos-13&show_icons=true&hide_border=true&theme=jolly" />
-</p>
-<p align="center">
-	  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=santhos-13&hide_border=true&theme=jolly" />
-
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhos-13&layout=compact&theme=jolly" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=santhos-13&show_icons=true&hide_border=true&theme=jolly" />
+	  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=santhos-13&hide_border=true&theme=jolly" />
+	<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhos-13&layout=compact&theme=jolly" />
 </p>
 
 <a target="_blank" href="https://www.instagram.com/santhoshh03/">
