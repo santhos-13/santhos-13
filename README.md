@@ -4,12 +4,10 @@
 ![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhos-13&show_icons=true)
 
 
-<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+<a target="_blank" href="https://www.linkedin.com/in/santhosh-kumar-ba4a2a226/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
+
 <a target="_blank" href="https://www.instagram.com/santhoshh03/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
