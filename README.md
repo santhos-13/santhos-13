@@ -4,9 +4,13 @@
 ![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhos-13&show_icons=true)
 
 
-<a target="_blank" href="https://www.linkedin.com/in/santhosh-kumar-ba4a2a226/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=santhos-13r&show_icons=true&hide_border=true&theme=jolly" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=santhos-13&hide_border=true&theme=jolly" />
+</p>
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhos-13&layout=compact&theme=jolly" />
+</p>
 
 <a target="_blank" href="https://www.instagram.com/santhoshh03/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -19,13 +23,7 @@
 </a>
 
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FrozenWolf-Cyber&show_icons=true&hide_border=true&theme=jolly" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrozenWolf-Cyber&hide_border=true&theme=jolly" />
-</p>
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrozenWolf-Cyber&layout=compact&theme=jolly&hide=jupyter%20notebook" />
-</p>
+
 
 
 <!--
