@@ -9,7 +9,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=santhos-13&show_icons=true&hide_border=true&theme=dark" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=santhos-13&theme=dark&hide_border=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=santhos-13&theme=dark" />
   
 <!--   [![GitHub Streak](https://streak-stats.demolab.com/?user=santhos-13)](https://git.io/streak-stats) -->
 
