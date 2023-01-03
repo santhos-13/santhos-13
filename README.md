@@ -7,7 +7,7 @@
 <!-- [![@kong123's Holopin board](https://holopin.me/kong123)](https://holopin.io/@kong123) -->
 ### Github Stats:
 <p align="center">
-  ![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=santhos-13&show_icons=true&theme=radical)
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=santhos-13&show_icons=true&hide_border=true&theme=radical" />
 
   </p>
 
