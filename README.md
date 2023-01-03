@@ -8,7 +8,7 @@
 ### Github Stats:
 
 <p align="center">
-      <img width="48%" src="https://streak-stats.demolab.com/?user=SANTHOS-13&theme=dark" />
+      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=santhos-13&theme=dark" />
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=santhos-13&show_icons=true&hide_border=true&theme=dark" />
   
@@ -17,7 +17,7 @@
 
 
   </p>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhos-13)
+<!--   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhos-13) -->
 
 ### Let's Connect:
 
